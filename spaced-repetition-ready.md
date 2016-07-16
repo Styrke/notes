@@ -20,17 +20,20 @@ The following is a list of subjects that I think are well suited for rote learni
  - Punctuation: Period and comma
  - The [mnemonic major system](http://mt.artofmemory.com/wiki/Major_System)
  - Quotes or short sentences that you would like to have available as [cached thoughts](http://lesswrong.com/lw/k5/cached_thoughts/)
-   - CTAPs and implementation intentions<sup>1</sup>
+   - [CTAPs and implementation intentions](http://guzey.com/blog/thought-patterns-marginal)<sup>1</sup>
 
 Many of the items on the list above are inspired by suggestions from the sources below.
 They provide a bunch of additional ideas for things to learn there that I decided not to include in my own list either because I don't think they are suitable for rote learning or generally useful to remember.
 
  - The section about [what to add](http://www.gwern.net/Spaced%20repetition#what-to-add) on the excellent [spaced repetition page](http://www.gwern.net/Spaced%20repetition) by Gwern.
  - LessWrong post: [Knowledge ready for Ankification](http://lesswrong.com/lw/9qs/knowledge_ready_for_ankification/)
+ - Slides from Nick Winter's [slides for a Quantified self talk](http://www.slideshare.net/nickwinter/cognition-learning-and-selftracking-quantified-self-2011). (Specifically slides 7 and 8)
+
+See also my collection of [bookmarks about spaced repetition](https://pinboard.in/search/u:Styrke?query=spaced-repetition).
 
 If you know of more repositories with ideas for things to learn with spaced repetition I would like to know about them.
 
 ## Footnotes
-<sup>1</sup> SquirrelInHell has shared the contents of a system for CTAPs [here](https://squirrelinhell.github.io/index.html).
+<sup>1</sup> SquirrelInHell has also shared the contents of a system for CTAPs [here](https://squirrelinhell.github.io/index.html).
 It is a good example of how to formulate CTAPs/implementation intentions as questions (triggers) and answers (actions), and it may serve as inspiration for building a similar system.
 I am sure that I saw a comment somwhere by SquirrelInHell with more details about the system, but I can't find it now.
