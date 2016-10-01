@@ -22,6 +22,8 @@ The following is a list of subjects that I think are well suited for rote learni
  - Quotes or short sentences that you would like to have available as [cached thoughts](http://lesswrong.com/lw/k5/cached_thoughts/)
    - [CTAPs and implementation intentions](http://guzey.com/blog/thought-patterns-marginal)<sup>1</sup>
    - Nonviolent Communication (NVC)
+ - Musical notation
+ - [Myers-Briggs types](https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator)
 
 Many of the items on the list above are inspired by suggestions from the sources below.
 They provide a bunch of additional ideas for things to learn there that I decided not to include in my own list either because I don't think they are suitable for rote learning or generally useful to remember.
